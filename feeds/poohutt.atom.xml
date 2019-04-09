@@ -1,9 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>HealthHackHunt - poohutt</title><link href="https://poohutt.github.io/HealthHack.github.io/" rel="alternate"></link><link href="https://poohutt.github.io/HealthHack.github.io/feeds/poohutt.atom.xml" rel="self"></link><id>https://poohutt.github.io/HealthHack.github.io/</id><updated>2019-01-07T00:00:00+09:00</updated><entry><title>2019年1月2週目目標</title><link href="https://poohutt.github.io/HealthHack.github.io/2019nian-1yue-2zhou-mu-mu-biao.html" rel="alternate"></link><published>2019-01-07T00:00:00+09:00</published><updated>2019-01-07T00:00:00+09:00</updated><author><name>poohutt</name></author><id>tag:poohutt.github.io,2019-01-07:/HealthHack.github.io/2019nian-1yue-2zhou-mu-mu-biao.html</id><summary type="html"></summary><content type="html">&lt;p&gt;今週の予定は下記の通り&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>HealthHackHunt - poohutt</title><link href="https://poohutt.github.io/HealthHack.github.io/" rel="alternate"></link><link href="https://poohutt.github.io/HealthHack.github.io/feeds/poohutt.atom.xml" rel="self"></link><id>https://poohutt.github.io/HealthHack.github.io/</id><updated>2019-04-09T00:00:00+09:00</updated><entry><title>投資信託で出てきた単語をまとめてみた</title><link href="https://poohutt.github.io/HealthHack.github.io/tou-zi-xin-tuo-dechu-tekitadan-yu-womatometemita.html" rel="alternate"></link><published>2019-04-09T00:00:00+09:00</published><updated>2019-04-09T00:00:00+09:00</updated><author><name>poohutt</name></author><id>tag:poohutt.github.io,2019-04-09:/HealthHack.github.io/tou-zi-xin-tuo-dechu-tekitadan-yu-womatometemita.html</id><summary type="html">&lt;p&gt;株と投信は少しずつ違うから抑えていく。&lt;/p&gt;</summary><content type="html">&lt;p&gt;投信関係のPJに入った。株はやっているから何とかなるかなと思ったが、
+よく見ると株と違う点がいくつかあるため、改めて一から学ぶことにする。
+まずは、一般的な単語の定義を改めて拾う。&lt;/p&gt;
+&lt;h4&gt;申込日&lt;/h4&gt;
+&lt;p&gt;売買注文が受理された日。
+注文申し込みの締め切り時間が決まっているため、
+その時間より前に注文すれば、その日が申込日に
+その時間より後に注文すれば、その自営業日が申込日に
+なる。締め切り時間前（受理前）までならキャンセルも可能。&lt;/p&gt;
+&lt;h4&gt;受渡日&lt;/h4&gt;
+&lt;p&gt;注文が成立した投資信託の代金の授受がある日。
+銘柄によって、約定日の○営業日後が受渡日と決まっている。&lt;/p&gt;
+&lt;h4&gt;約定日&lt;/h4&gt;
+&lt;p&gt;売買注文が確定された日。
+基本的に申込日が約定日になるが、銘柄によって異なる。
+海外の場合は申込日の翌日以降が約定日になることが多い。&lt;/p&gt;
+&lt;h4&gt;基準価格&lt;/h4&gt;
+&lt;p&gt;売買時に利用される価格。株跡違い、1日1回しか変わらない。
+約定日の基準価格で、購入・売却がなされる。
+日本市場の終値をもとに、基準価格が算出される。&lt;/p&gt;
+&lt;h4&gt;分配金&lt;/h4&gt;
+&lt;p&gt;分配可能原資とよばれる資金の中から、決算の後に払われる金額のこと。
+株の配当金のようなもの。&lt;/p&gt;
+&lt;h4&gt;スイッチング&lt;/h4&gt;
+&lt;p&gt;同一商品で、その商品に組み込まれている金融商品を乗り換えること。
+ただの売り買いとは違い、手数料が安いあるいは無料の場合が多い。
+しかし、信託財産留保額などが徴収されることがある。&lt;/p&gt;</content></entry><entry><title>指摘されてはっとしたこと</title><link href="https://poohutt.github.io/HealthHack.github.io/zhi-zhai-saretehatsutoshitakoto.html" rel="alternate"></link><published>2019-04-08T00:00:00+09:00</published><updated>2019-04-08T00:00:00+09:00</updated><author><name>poohutt</name></author><id>tag:poohutt.github.io,2019-04-08:/HealthHack.github.io/zhi-zhai-saretehatsutoshitakoto.html</id><summary type="html">&lt;p&gt;仕事でミスした時に、自身の弱点を説明してもらってハッとした。何回目かわからないけれど。&lt;/p&gt;</summary><content type="html">&lt;h2&gt;大弱点　自分本位になってしまう&lt;/h2&gt;
+&lt;p&gt;何かをやる・作るときの基準は全て自分が評価している。
+PJだったらPLが描くゴール＝正解であるため、そこに沿っているのかを確認しなければならない。
+が、実態としては、自分がなんとなく描いたゴールに対して動き、それを成果物としてしまっていた。
+PLが何を求めているのかを第一に理解しなければいけない。
+&lt;strong&gt;自分本位を捨てなければならない。&lt;/strong&gt;
+自分の主語を変えて対応するという方針を立てていたが、それは結局自分本位であるため、問題であった。
+主語を変えて対応すること自体はよいが、そのままで終わるのがダメである。
+&lt;em&gt;1. 現PLが何をしたいのかを知り、自分の考えとどう違うかを理解すること。&lt;/em&gt;
+&lt;em&gt;2. 現PLが考えている通りに成果を出していくこと。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;上記2点が出来るように行動していかなければならない。&lt;/p&gt;</content></entry><entry><title>なぜ仕事がうまくいかないか</title><link href="https://poohutt.github.io/HealthHack.github.io/nazeshi-shi-gaumakuikanaika.html" rel="alternate"></link><published>2019-01-11T00:00:00+09:00</published><updated>2019-01-11T00:00:00+09:00</updated><author><name>poohutt</name></author><id>tag:poohutt.github.io,2019-01-11:/HealthHack.github.io/nazeshi-shi-gaumakuikanaika.html</id><summary type="html">&lt;p&gt;仕事が出来ずにうだうだ考えることが多いけれど、その振り返りのうちの一つ。&lt;/p&gt;</summary><content type="html">&lt;h3&gt;結論：人を馬鹿にするからじゃないかな&lt;/h3&gt;
+&lt;p&gt;人と話すのが嫌いな自分でも、&lt;br&gt;
+たまたま後輩と話していて質問されたのがこの内容&lt;br&gt;
+&lt;strong&gt;「調査タスクをやっているが、これがうまくいかないのはどうすればいいか」&lt;/strong&gt;&lt;br&gt;
+に対して、いい答えが言えたと思ったので、備忘と自身への啓示のために残す&lt;/p&gt;
+&lt;p&gt;回答　&lt;strong&gt;「必ず終わりをイメージして動くこと」&lt;/strong&gt;&lt;br&gt;
+そのタスクの締め切りはこの時間で、その締め切りまでにこうなっている必要がある。&lt;br&gt;
+逆算すると、その○○分前にはこれが出来ていなければならない。出来ていないから、その終わりに到達できない。&lt;br&gt;
+（そこに希望的観測はいらない。事実だけを伝えること）&lt;br&gt;
+メンバーとして動いている場合は、それが収まらなかった場合に対処するのがリーダーなので、&lt;br&gt;
+&lt;strong&gt;メンバーとしてとにかく報告すること&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;調査タスクだけに言っているわけでも、特別なことを言っているわけでもなく、
+これが仕事に求められる最低限のTODO&lt;/p&gt;
+&lt;p&gt;そして、私の問題としては、&lt;br&gt;
+&lt;strong&gt;「なぜ、終わりをイメージして動くことが出来ないのか」&lt;/strong&gt;&lt;br&gt;
+ということ&lt;/p&gt;
+&lt;p&gt;回答　&lt;strong&gt;「適当な人間だから」&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;「楽天的だから」&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;「締め切りが嫌いだから」&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;自身の弱点を埋めるのにはもっともっと自分を知らねば…&lt;/p&gt;</content></entry><entry><title>2019年1月2週目目標</title><link href="https://poohutt.github.io/HealthHack.github.io/2019nian-1yue-2zhou-mu-mu-biao.html" rel="alternate"></link><published>2019-01-07T00:00:00+09:00</published><updated>2019-01-07T00:00:00+09:00</updated><author><name>poohutt</name></author><id>tag:poohutt.github.io,2019-01-07:/HealthHack.github.io/2019nian-1yue-2zhou-mu-mu-biao.html</id><summary type="html">&lt;p&gt;今週の予定は下記の通り&lt;br&gt;
 &lt;strong&gt;平日は1日1時間、休日は必要なだけ、時間を取って対応に当たりたい&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;◆食事ログアプリ作成
   1. 環境一覧と必要な情報ソース確認（2H）&lt;br&gt;
-  2. Pythonプロフェッショナルプログラミング読み進める(3H)&lt;/p&gt;</content></entry><entry><title>はじめにいろいろ</title><link href="https://poohutt.github.io/HealthHack.github.io/hazimeniiroiro.html" rel="alternate"></link><published>2018-12-05T00:00:00+09:00</published><updated>2018-12-05T00:00:00+09:00</updated><author><name>poohutt</name></author><id>tag:poohutt.github.io,2018-12-05:/HealthHack.github.io/hazimeniiroiro.html</id><summary type="html">&lt;p&gt;人生向上のためになんでもやります&lt;br&gt;
+  2. Pythonプロフェッショナルプログラミング読み進める(3H)&lt;/p&gt;</summary><content type="html">&lt;p&gt;今週の予定は下記の通り&lt;br&gt;
+&lt;strong&gt;平日は1日1時間、休日は必要なだけ、時間を取って対応に当たりたい&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;◆食事ログアプリ作成
+  1. 環境一覧と必要な情報ソース確認（2H）&lt;br&gt;
+  2. Pythonプロフェッショナルプログラミング読み進める(3H)&lt;/p&gt;</content><category term="weekly"></category><category term="plans"></category><category term="work"></category></entry><entry><title>はじめにいろいろ</title><link href="https://poohutt.github.io/HealthHack.github.io/hazimeniiroiro.html" rel="alternate"></link><published>2018-12-05T00:00:00+09:00</published><updated>2018-12-05T00:00:00+09:00</updated><author><name>poohutt</name></author><id>tag:poohutt.github.io,2018-12-05:/HealthHack.github.io/hazimeniiroiro.html</id><summary type="html">&lt;p&gt;人生向上のためになんでもやります&lt;br&gt;
 興味ばっかりあっても始まらない・続かないから、このブログを通じて続けます&lt;br&gt;
 このブログを通じてハックし続けます&lt;br&gt;
 そんなエンジニアのお話  &lt;/p&gt;
@@ -45,5 +104,4 @@
 ディズニーは年パス4年目、ショーパレ好きだけどダンオタではない&lt;br&gt;
 ダンスはロックダンスが好き。でも踊ることは最近してない  &lt;/p&gt;
 &lt;h3&gt;努力していること&lt;/h3&gt;
-&lt;p&gt;・資産運用 基本的には株。プラマイどっちも激しくて、今は少しだけプラス。&lt;/p&gt;</content></entry><entry><title>Pelicanでブログ</title><link href="https://poohutt.github.io/HealthHack.github.io/pelicandeburogu.html" rel="alternate"></link><published>2018-11-29T11:32:00+09:00</published><updated>2018-11-29T11:32:00+09:00</updated><author><name>poohutt</name></author><id>tag:poohutt.github.io,2018-11-29:/HealthHack.github.io/pelicandeburogu.html</id><summary type="html"></summary><content type="html">&lt;p&gt;Pelicanでブログを作成します。&lt;/p&gt;
-&lt;p&gt;テストページ&lt;/p&gt;</content><category term="pelican"></category><category term="python"></category></entry></feed>
+&lt;p&gt;・資産運用 基本的には株。プラマイどっちも激しくて、今は少しだけプラス。&lt;/p&gt;</content></entry></feed>
